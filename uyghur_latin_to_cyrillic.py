@@ -71,6 +71,15 @@ MAP_2 = {
 }
 
 def convert_latin_to_cyrillic(infile, outfile):
+    """
+    Converts latin Uyghur script to cyrillic. Because several sounds are
+    represented with two characters in latin orthography, there are potentially
+    ambiguous sequences that are differentiated with apostrophes: e.g. "yengi" 
+    with a velar nasal and "in'glizche" with an alveolar nasal followed by a
+    velar stop. To conver these properly, we first convert all two char sounds
+    (from MAP_2), then remove apostrophes, then convert all one char sounds
+    (from MAP_1).
+    """
     with open(infile, "r") as f:
         file = f.read()
 
@@ -82,7 +91,6 @@ def convert_latin_to_cyrillic(infile, outfile):
     file = file.replace("'", "")
     file = file.replace("=", "")
     file = file.replace("’", "")
-
 
     # Replace all one character sequences
     for key in MAP_1:
