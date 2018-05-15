@@ -1,8 +1,5 @@
 import argparse
 
-INFILE = "Uyghur_intonation_list.txt"
-OUTFILE = "cyrillic_uyghur_intonation_list.txt"
-
 MAP_1 = {
     "A": "А",
     "a": "а",
