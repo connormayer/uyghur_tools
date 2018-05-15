@@ -100,8 +100,14 @@ def convert_latin_to_cyrillic(infile, outfile):
         f.write(file)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Convert latin Uyghur script to cyrillic")
-    parser.add_argument("infile", type=str, help="The file to read latin script from")
-    parser.add_argument("outfile", type=str, help="The file to write cyrillic script to", default=1)
+    parser = argparse.ArgumentParser(
+        description="Convert latin Uyghur script to cyrillic"
+    )
+    parser.add_argument(
+        "infile", type=str, help="The file to read latin script from"
+    )
+    parser.add_argument(
+        "outfile", type=str, help="The file to write cyrillic script to"
+    )
     args = parser.parse_args()
     convert_latin_to_cyrillic(args.infile, args.outfile)
