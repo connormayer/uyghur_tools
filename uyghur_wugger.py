@@ -8,11 +8,11 @@ SOUND_DICT = {
         'w', 'y', 'ng', 'sh', 'zh', 'ch'
     ],
 
-    # Non-harmonizing consonants in onset position
+    # Legal non-harmonizing word-initial consonants
     'O': [
         'b', 'p', 't', 'j', 'x', 'd', 'r', 'z', 's', 'f', 'l', 'm', 'n', 'h',
-        'w', 'y', 'ng', 'sh', 'zh', 'ch'
-    ]
+        'w', 'y', 'sh', 'zh', 'ch'
+    ],
 
     # Non-harmonizing vowels
     'V': [
@@ -22,12 +22,12 @@ SOUND_DICT = {
     # /i/
     'I': [
         'i'
-    ]
+    ],
 
     # /é/
     'E': [
         'é'  
-    ]
+    ],
 
     # Front vowels
     'F': [
@@ -51,12 +51,13 @@ SOUND_DICT = {
 }
 
 def create_wugs(template, number):
-    wugs = []
+    wugs = ['# {}'.format(template)]
     for _ in range(int(number)):
         wug = ''
         for c in template:
             wug += random.choice(SOUND_DICT[c])
         wugs.append(wug)
+    wugs.append("")
     return wugs
 
 def generate_wugs(input_file, output_file):
