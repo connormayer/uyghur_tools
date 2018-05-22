@@ -1,0 +1,29 @@
+# Flagrant vowel mismatches (unexpected)
+(\w*(e|ü|ö)[^aoueüökgq(gh)\s]*(gha|qa|da|ta))\s      # V_f S_b
+(\w*(a|o|u)[^aoueüökgq(gh)\s]*(ge|ke|de|te))\s       # V_b S_f
+
+# Matches earlier vowel instead of immediately preceding 
+(\w*(e|ü|ö)\w*(a|o|u)[^eüö\s]*(ge|ke|de|te))\s      # V_f V_b S_f
+(\w*(a|o|u)\w*(e|ü|ö)[^aou\s]*(gha|qa|da|ta))\s     # V_b V_f S_b
+
+# Harmony jumping over clashing dorsals (expected)
+(\w*(e|ü|ö)[^eüöaou\s]*q[^eüöaouk\s]*(ge|ke|de|te))\s       # V_f C_b S_f
+(\w*(a|o|u)[^eüöaou\s]*k[^eüöaouq\s]*(gha|qa|da|ta))\s      # V_b C_f S_b
+
+# Harmony NOT jumping over clashing dorsals
+(\w*(e|ü|ö)[^eüöaou\s]*(q|(gh))[^eüöaoukg\s]*(gha|qa|da|ta))\s      # V_f C_b S_b
+(\w*(a|o|u)[^eüöaou\s]*(k|g)[^eüöaouq(gh)\s]*(ge|ke|de|te))\s       # V_b C_f S_f
+
+# Only harmonizing dorsals
+
+## Unexpected patterns
+([^aoueüö\s]*(k|g)[^aoueüö\s]*(q|(gh))[^aoueüökg\s]*(ge|ke|de|te))\s        # C_f C_b S_f
+([^aoueüö\s]*(q|(gh))[^aoueüö\s]*(k|g)[^aoueüöq(gh)\s]*(gha|qa|da|ta))\s    # C_b C_f S_b
+([^aoueüökg\s]*(q|(gh))[^aoueüökg\s]*(ge|ke|de|te))\s                       # C_b S_f
+([^aoueüöq(gh)\s]*(k|g)[^aoueüöq(gh)\s]*(gha|qa|da|ta))\s                   # C_f S_b
+
+## Expected patterns
+([^aoueüö\s]*(q|(gh))[^aoueüö\s]*(k|g)[^aoueüöq(gh)\s]*(ge|ke|de|te))\s     # C_b C_f S_f
+([^aoueüö\s]*(k|g)[^aoueüö\s]*(q|(gh))[^aoueüökg\s]*(gha|qa|da|ta))\s       # C_f C_b S_b
+([^aoueüökg\s]*(q|(gh))[^aoueüökgq(gh)\s]*(gha|qa|da|ta))\s                 # C_b S_b
+([^aoueüöq(gh)\s]*(k|g)[^aoueüöq(gh)\s]*(ge|ke|de|te))\s                    # C_f S_f
