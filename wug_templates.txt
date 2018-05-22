@@ -1,19 +1,19 @@
 # Test to see if uvular takes precedence at long distance from front vowel
-OFQ	5
-OFCVQ	5
-OFCVCVQ	5
+OFQ	20
+OFCVQ	20
+OFCVCVQ	20
 # Test to see if velar takes precedence at long distance from back vowel
-OBK	5
-OBCVK	5
-OBCVCVK	5
+OBK	20
+OBCVK	20
+OBCVCVK	20
 # Tests for non-harmonizing stems
-OVC	5
-OVCVC	5
-OVCVCVC	5
+OVC	20
+OVCVC	20
+OVCVCVC	20
 # See what happens as distance from trigger increases with no additional trigger
-OFC	5
-OFCVC	5
-OFCVCVC	5
-OBC	5
-OBCVC	5
-OBCVCVC	5
+OFC	20
+OFCVC	20
+OFCVCVC	20
+OBC	20
+OBCVC	20
+OBCVCVC	20
