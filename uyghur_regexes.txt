@@ -3,8 +3,8 @@
 (\w*(a|o|u)[^aoueüökgq(gh)\s]*(ge|ke|de|te))\s       # V_b S_f
 
 # Matches earlier vowel instead of immediately preceding 
-(\w*(e|ü|ö)\w*(a|o|u)[^eüö\s]*(ge|ke|de|te))\s      # V_f V_b S_f
-(\w*(a|o|u)\w*(e|ü|ö)[^aou\s]*(gha|qa|da|ta))\s     # V_b V_f S_b
+(\w*(e|ü|ö)[^aoueüö\s]*(a|o|u)[^aoueüö\s]*(ge|ke|de|te))\s      # V_f V_b S_f
+(\w*(a|o|u)[^aoueüö\s]*(e|ü|ö)[^aoueüö\s]*(gha|qa|da|ta))\s     # V_b V_f S_b
 
 # Harmony jumping over clashing dorsals (expected)
 (\w*(e|ü|ö)[^eüöaou\s]*q[^eüöaouk\s]*(ge|ke|de|te))\s       # V_f C_b S_f
