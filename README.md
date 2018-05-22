@@ -11,6 +11,7 @@ Miscellaneous scripts for processing Uyghur data
 
     ## Template File Format
     Each line is a tab-separated pair: 
+    
         <form template> <number>
 
     The form template field specifies the general segmental properties of the words. There are currently 6 segment types:
