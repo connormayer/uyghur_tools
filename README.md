@@ -22,6 +22,9 @@ Miscellaneous scripts for processing Uyghur data
         B: Back vowels
         K: Front dorsals
         Q: Back dorsals
+	O: Legal word-initial non-harmonizing consonants
+	I: /i/
+	E: /é/
 
     These can be used in any combination. For example, CFQ would generate three-segment words that start with a non-harmonizing consonant, followed by a front vowel, followed by a back dorsal.
 

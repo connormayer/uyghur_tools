@@ -2,27 +2,49 @@ import argparse
 import random
 
 SOUND_DICT = {
+    # Non-harmonizing consonants
     'C': [
         'b', 'p', 't', 'j', 'x', 'd', 'r', 'z', 's', 'f', 'l', 'm', 'n', 'h',
         'w', 'y', 'ng', 'sh', 'zh', 'ch'
     ],
 
+    # Non-harmonizing consonants in onset position
+    'O': [
+        'b', 'p', 't', 'j', 'x', 'd', 'r', 'z', 's', 'f', 'l', 'm', 'n', 'h',
+        'w', 'y', 'ng', 'sh', 'zh', 'ch'
+    ]
+
+    # Non-harmonizing vowels
     'V': [
         'i', 'é'   
     ],
 
+    # /i/
+    'I': [
+        'i'
+    ]
+
+    # /é/
+    'E': [
+        'é'  
+    ]
+
+    # Front vowels
     'F': [
         'e', 'ö', 'ü'
     ],
 
+    # Back vowels
     'B': [
         'a', 'o', 'u'
     ],
 
+    # Front dorsals   
     'K': [
         'k', 'g', 
     ],
 
+    # Back dorsals
     'Q': [
         'q', 'gh'
     ]

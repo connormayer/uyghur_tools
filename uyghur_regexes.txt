@@ -27,3 +27,6 @@
 ([^aoueüö\s]*(k|g)[^aoueüö\s]*(q|(gh))[^aoueüökg\s]*(gha|qa|da|ta))\s       # C_f C_b S_b
 ([^aoueüökg\s]*(q|(gh))[^aoueüökgq(gh)\s]*(gha|qa|da|ta))\s                 # C_b S_b
 ([^aoueüöq(gh)\s]*(k|g)[^aoueüöq(gh)\s]*(ge|ke|de|te))\s                    # C_f S_f
+
+# No harmonizing elements
+([^aoueüökgq(gh)\s]*)
