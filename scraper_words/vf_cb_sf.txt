@@ -1,103 +1,111 @@
-heqte 
-xeqte 
-Heqte 
-eqide 
-heqte 
-eqlige 
-xelqte 
-eqilge 
-eqlimge 
-eqidide 
-perqide 
-weqpide 
-xelqide 
-teqibge 
-reqibge 
-heqiqde 
-xelqige 
-etiqige 
-heqqide 
-perqige 
-eqilige 
-sherqte 
-heqqige 
-heqqide 
-teqipke 
-eqidige 
-weqpige 
-teqibke 
-tenqidke 
-xelqimge 
-teriqide 
-reqibige 
-teqipide 
-sherqide 
-heqqimge 
-teqibige 
-teqdirge 
-teqdirde 
-reqimige 
-meshiqte 
-neqilide 
-heqqqide 
-teqibide 
-deqiqide 
-tenqidge 
-Xelqimge 
-sherqige 
-wereqige 
-Sherqiyge 
-heqlirige 
-meqsitide 
-heqliride 
-tendiqige 
-teqdiride 
-tenqidige 
-eqidisige 
-mentiqige 
-meshiqige 
-Teqrizide 
-meshiqide 
-meqsitige 
-teqdirige 
-teriqiside 
-qeshqirige 
-eqlingizge 
-Xelqimizge 
-xelqimizge 
-xelqlirige 
-shepqitige 
-xelqliride 
-xelqimizde 
-heqiqitige 
-perqlirige 
-meqsitimge 
-Xelqimizde 
-mentiqisige 
-abdureqipke 
-teqiblirige 
-eqidilirige 
-teqiplirige 
-heqqingizde 
-reqiblirige 
-xelqingizge 
-reqiplirige 
-tenqidliride 
-deqiqiliride 
-heqlirimizge 
-tenqidlirige 
-meqsitimizge 
-teqiplishige 
-Meqsitimizge 
-teqdirimizge 
-teqdirlishige 
-tenqidlishige 
-musteqilliqige 
-meshqchilirige 
-meshiqlinishke 
-tenqidchilirige 
-muweppeqiyitige 
-teqsimlinishide 
-qedir-qimmitige 
-hakimmutleqliqige 
-musteqilchilirige 
+ eqide 
+ xeqte 
+ heqte 
+ heqte 
+ xelqte 
+ eqilge 
+ eqlige 
+ eqidide 
+ eqilige 
+ teqipke 
+ xelqide 
+ heqqide 
+ perqide 
+ weqpide 
+ reqibge 
+ teqibge 
+ eqlimge 
+ heqqide 
+ heqiqde 
+ sherqte 
+ heqqige 
+ weqpige 
+ xelqige 
+ eqidige 
+ teqibke 
+ perqige 
+ tenqidke 
+ heqqimge 
+ tenqidge 
+ teqdirge 
+ heqqqide 
+ sherqide 
+ teqipide 
+ xelqimge 
+ teqibide 
+ neqilide 
+ meshiqte 
+ reqimige 
+ teqibige 
+ sherqige 
+ teqdirde 
+ teriqide 
+ Xelqimge 
+ reqibige 
+ wereqige 
+ deqiqide 
+ meshiqide 
+ meshiqige 
+ qeghizide 
+ teblighde 
+ meqsitide 
+ teqdirige 
+ qeghizige 
+ mebleghge 
+ tendiqige 
+ meqsitige 
+ teqdiride 
+ heqliride 
+ tenqidige 
+ mentiqige 
+ heqlirige 
+ eqidisige 
+ Teqrizide 
+ xelqlirige 
+ xelqimizge 
+ heqiqitige 
+ xelqliride 
+ perqlirige 
+ meqsitimge 
+ shepqitige 
+ eqlingizge 
+ teriqiside 
+ Xelqimizge 
+ meblighige 
+ teghdirige 
+ teblighide 
+ Xelqimizde 
+ xelqimizde 
+ qeshqirige 
+ eqidilirige 
+ reqiplirige 
+ abdureqipke 
+ reqiblirige 
+ teqiplirige 
+ heqqingizde 
+ mentiqisige 
+ teqiblirige 
+ xelqingizge 
+ asar'etiqige 
+ Meqsitimizge 
+ teqiplishige 
+ heqlirimizge 
+ tenqidlirige 
+ deqiqiliride 
+ meqsitimizge 
+ teqdirimizge 
+ tenqidliride 
+ teblighliride 
+ mebleghliride 
+ teqdirlishige 
+ tenqidlishige 
+ teblighlirige 
+ musteqilliqige 
+ meshqchilirige 
+ meshiqlinishke 
+ tenqidchilirige 
+ qedir-qimmitige 
+ teqsimlinishide 
+ muweppeqiyitige 
+ musteqilchilirige 
+ hakimmutleqliqige 

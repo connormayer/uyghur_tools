@@ -1,335 +1,72 @@
-gqa 
-kta 
-gda 
-kqa 
-gta 
-rgda 
-ksqa 
-rkqa 
-ngqa 
-ggha 
-lkqa 
-gita 
-ngda 
-rgqa 
-gida 
-kéta 
-kéda 
-ksta 
-ikqa 
-kita 
-kida 
-rkta 
-kigha 
-kitta 
-gigha 
-ingda 
-lkida 
-ksida 
-kitqa 
-nggha 
-ingda 
-nkida 
-gérda 
-ngida 
-kénida 
-mkigha 
-rgénda 
-ksigha 
-sigita 
-inkida 
-ningda 
-kimida 
-girgha 
-kisida 
-tkénda 
-jingda 
-égrida 
-inggha 
-dingda 
-gérgha 
-skigha 
-ykigha 
-xéngda 
-rkigha 
-nkigha 
-zikida 
-n'ggha 
-tkigha 
-tingda 
-kimgha 
-gilida 
-kinida 
-rnikta 
-ngdida 
-éngida 
-nikita 
-gérida 
-kirgha 
-lkigha 
-glirida 
-ktikida 
-kiyéwqa 
-tkisida 
-binggha 
-linggha 
-jinggha 
-gézitqa 
-ingizda 
-zikigha 
-fénggha 
-kénigha 
-rginida 
-yinggha 
-kiligha 
-Uningda 
-lkisida 
-déngida 
-nkitida 
-ngjigha 
-iningda 
-kisigha 
-gézitta 
-minggha 
-ktérgha 
-nmingda 
-kinigha 
-kiyéwda 
-brikida 
-ninggha 
-girigha 
-dinggha 
-ksinida 
-giligha 
-rkisida 
-byéktqa 
-ldingda 
-ringgha 
-mérkida 
-pinggha 
-tskiyda 
-blikida 
-éngigha 
-tinggha 
-zinggha 
-géligha 
-gérigha 
-ngzigha 
-kiyéwta 
-nkisida 
-kiyéfqa 
-ktérida 
-gikigha 
-Ankitta 
-finggha 
-ilingida 
-dingizda 
-égrisida 
-ninnggha 
-tkisigha 
-ringizda 
--Uningda 
-ldinggha 
-grétista 
-ktikigha 
-krizista 
-éyjingda 
-nkisigha 
-mérikida 
-Uninggha 
-kinimgha 
-déngizda 
-rkisigha 
-yéningda 
-lingizda 
-gézitida 
-mkisigha 
-tilingda 
-tingizda 
-jéngigha 
-kirzisqa 
-izinggha 
-minskida 
-béktigha 
-nminggha 
-brikigha 
-ingizgha 
-kimizgha 
-klirigha 
-ngiligha 
-limpikqa 
-biktigha 
-krizisqa 
-ktérigha 
-njinggha 
-Déngizda 
-xéngigha 
-kiyéwgha 
-rginigha 
-rkénigha 
-lkisigha 
-nklirida 
-pkisigha 
-Ininggha 
-téskigha 
-nkitigha 
-ksisigha 
-ningizda 
-ykisigha 
-bingizda 
-gizin'gha 
-30minggha 
-igrisigha 
-mmingizda 
-byéktigha 
-méksikida 
-jifinggha 
-déngizida 
-Wiwiskida 
-téxnikida 
-gérlirida 
-yingizgha 
-kirimigha 
-gézitigha 
-krizisiqa 
-béyjingda 
-réntgénda 
-kitlirida 
-Aldinggha 
-10minggha 
-dingizgha 
-ngliyigha 
-gitlérgha 
-wiwiskida 
-indéksida 
-ylingizda 
+ kéda 
+ kénida 
+ nikita 
+ sigita 
+ gézitta 
+ gézitqa 
+ giligha 
+ géligha 
+ kiyéwda 
+ kiyéwqa 
+ kishida 
+ kiyéfqa 
+ kénigha 
+ kiyéwta 
+ kiyéwgha 
+ krizista 
+ kirzisqa 
 Amérikida 
-mérkélgha 
-ngbin'gha 
-biniskida 
-lingizgha 
-blikimgha 
-nglirigha 
-tsiklitqa 
-blikisida 
-liringgha 
-mérikigha 
-lléktipqa 
-wringigha 
-11minggha 
-tistikida 
-ilingigha 
-éykisigha 
-tékistida 
-krémilgha 
-krizisida 
-Béyjingda 
-ldingizda 
-iningizda 
-éngimizda 
-ringizgha 
-stikisida 
-tikisigha 
-girlirida 
-zikisigha 
-déngizgha 
-yingwénda 
-nkilirida 
-téstikida 
-tingizgha 
-égrisigha 
-mizinggha 
-rtingizda 
-mliringgha 
-Béyjinggha 
-zikilirida 
-béyjinggha 
-mkilirigha 
-méksikigha 
-nkitlirida 
-170minggha 
-jényinggha 
-nglirimgha 
-mérilkigha 
-nkilirigha 
-rkilirigha 
-krizisigha 
-béypinggha 
-listikigha 
-méngisigha 
-tistikigha 
-kitlirigha 
-100minggha 
-stikisigha 
-mérikisida 
-400minggha 
-tékistigha 
-ilingizgha 
-ktikisigha 
-liringizda 
-girlirigha 
-jinpinggha 
-déngizigha 
-étizinggha 
-tliringgha 
-gérlirigha 
-ktiplirida 
-xélsinkida 
-tkritkigha 
-ldingizgha 
-brikisigha 
-génlirigha 
-téxnikigha 
-ésingizgha 
-iningizgha 
+ krizisqa 
+ gézitida 
+ chégrida 
+ minskida 
+ mérkélgha 
+ méksikida 
+ tékistida 
+ krizisida 
+ téxnikida 
+ gézitigha 
+ gitlérgha 
+ réntgénda 
+ Amérikida 
+ Wiwiskida 
+ krizisiqa 
 Amérikigha 
-rkisizmgha 
-téxnikisida 
-téstikisida 
-ksikiltigha 
-tistikisida 
-singlisigha 
-nkitlirigha 
-ktiplirigha 
-itliringgha 
-tilingizgha 
-mérikisigha 
-n-téxnikida 
-ng-sézimida 
-gizinlirida 
-tsiklitigha 
-psixikisida 
-gézitlirida 
-girtlirigha 
-zikilirigha 
-tliringizda 
-liringizgha 
-géntlirigha 
-stikilirigha 
-byéktlirigha 
-psixikisigha 
-téstikisigha 
-ktikilirigha 
-mérikingizda 
-tistikisigha 
-téxnikisigha 
-n-téxnikigha 
-tliringizgha 
-kilirimizgha 
-singlimizgha 
-iliringizgha 
-diskingizgha 
-lliringizgha 
-gézitlirigha 
-brikilirigha 
-gézitimizgha 
-kiliringizgha 
-linkid'in'gha 
-liliringizgha 
-rni-béyjingda 
-é'irliringgha 
-tistikilirigha 
-n-téxnikisigha 
-téxnikilirigha 
-istilistikisida 
-kistirimizimigha 
+ indéksida 
+ wiwiskida 
+ kirimigha 
+ krémilgha 
+ tékistigha 
+ méksikigha 
+ téxnikigha 
+ chégrisida 
+ kélishigha 
+ génlirigha 
+ krizisigha 
+ Amérikigha 
+ xélsinkida 
+ gézitlirida 
+ kéngishigha 
+ chégrisigha 
+ psixikisida 
+ chigrisigha 
+ téxnikisida 
+ diskingizgha 
+ gézitimizgha 
+ kélishimigha 
+ in'glizchida 
+ téxnikisigha 
+ psixikisigha 
+ kinishkisida 
+ kinishkisigha 
+ linkid'in'gha 
+ én'glizchigha 
+ igiliwélishqa 
+ in'glizchigha 
+ in'gilizchigha 
+ téxnikilirigha 
+ istilistikisida 
+ igiliwélishigha 
+ chégrichilirigha 
+ kétiwélishingizgha 
+ igiliniwélinishigha 
