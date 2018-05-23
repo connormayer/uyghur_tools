@@ -1,33 +1,70 @@
 # Flagrant vowel mismatches (unexpected)
-(\w*(e|ü|ö)[^aoueüökgq(gh)\s.",]*(gha|qa|da|ta))\s      # V_f S_b
-(\w*(a|o|u)[^aoueüökgq(gh)\s.",]*(ge|ke|de|te))\s       # V_b S_f
+# V_f S_b
+((^|\s)(\w|')*(e|ü|ö|E|Ö|Ü)(((?<=n)g|[^AOUEÖÜaoueüökgq\s.",]))*(gha|qa|da|ta)($|\s))
+# V_b S_f
+((^|\s)(\w|')*(a|o|u|A|O|U)(((?<=n)g|[^AOUEÖÜaoueüökgq\s.",]))*(ge|ke|de|te)($|\s))
 
 # Matches earlier vowel instead of immediately preceding 
-(\w*(e|ü|ö)[^aoueüö\s.",]*(a|o|u)[^aoueüö\s.",]*(ge|ke|de|te))\s      # V_f V_b S_f
-(\w*(a|o|u)[^aoueüö\s.",]*(e|ü|ö)[^aoueüö\s.",]*(gha|qa|da|ta))\s     # V_b V_f S_b
+# V_f V_b S_f
+((^|\s)(\w|')*(e|ü|ö|E|Ö|Ü)[^AOUEÖÜaoueüö\s.",]*(a|o|u|A|O|U)[^AOUEÖÜaoueüö\s.",]*(ge|ke|de|te)($|\s))
+# V_b V_f S_b
+((^|\s)(\w|')*(a|o|u|A|O|U)[^AOUEÖÜaoueüö\s.",]*(e|ü|ö|E|Ö|Ü)[^AOUEÖÜaoueüö\s.",]*(gha|qa|da|ta)($|\s))
 
 # Harmony jumping over clashing dorsals (expected)
-(\w*(e|ü|ö)[^eüöaou\s.",]*q[^eüöaouk\s.",]*(ge|ke|de|te))\s       # V_f C_b S_f
-(\w*(a|o|u)[^eüöaou\s.",]*k[^eüöaouq\s.",]*(gha|qa|da|ta))\s      # V_b C_f S_b
+# V_f C_b S_f
+((^|\s)(\w|')*(e|ü|ö|E|Ö|Ü)(((?<=n)g|[^AOUEÖÜaoueüökgq\s.",]))*(q|(gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(ge|ke|de|te)($|\s))
+# V_b C_f S_b
+((^|\s)(\w|')*(a|o|u|A|O|U)(((?<=n)g|[^AOUEÖÜaoueüökgq\s.",]))*(k|(?<!n)g(?!h))(g(?!h)|[^AOUEÖÜeüöaougq\s.",])*(gha|qa|da|ta)($|\s))
 
 # Harmony NOT jumping over clashing dorsals
-(\w*(e|ü|ö)[^eüöaou\s.",]*(q|(gh))[^eüöaoukg\s.",]*(gha|qa|da|ta))\s      # V_f C_b S_b
-(\w*(a|o|u)[^eüöaou\s.",]*(k|g)[^eüöaouq(gh)\s.",]*(ge|ke|de|te))\s       # V_b C_f S_f
+# V_f C_b S_b
+((^|\s)(\w|')*(e|ü|ö)(((?<=n)g|[^aoueüökgq\s.",]))*(q|(gh))((?<=n)g|g(?=h)|[^eüöaoukg\s.",])*(gha|qa|da|ta)($|\s))
+# V_b C_f S_f
+((^|\s)(\w|')*(a|o|u)(((?<=n)g|[^aoueüökgq\s.",]))*(k|(?<!n)g(?!h))(g(?!h)|[^eüöaougq\s.",])*(ge|ke|de|te)($|\s))
 
 # Only harmonizing dorsals
 
 ## Unexpected patterns
-([^aoueüö\s.",]*(k|g)[^aoueüö\s.",]*(q|(gh))[^aoueüökg\s.",]*(ge|ke|de|te))\s        # C_f C_b S_f
-([^aoueüö\s.",]*(q|(gh))[^aoueüö\s.",]*(k|g)[^aoueüöq(gh)\s.",]*(gha|qa|da|ta))\s    # C_b C_f S_b
-([^aoueüökg\s.",]*(q|(gh))[^aoueüökg\s.",]*(ge|ke|de|te))\s                       # C_b S_f
-([^aoueüöq(gh)\s.",]*(k|g)[^aoueüöq(gh)\s.",]*(gha|qa|da|ta))\s                   # C_f S_b
+# C_f C_b S_f
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(k|K|(?<!n)g(?!h)|(?<!n)G(?!h))(g(?!h)|[^AOUEÖÜeüöaougq\s.",])*(q|(gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(ge|ke|de|te)($|\s))
+# C_b C_f S_b
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(q|Q|(gh)|(Gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(k|(?<!n)g(?!h))(g(?!h)|[^AOUEÖÜeüöaougq\s.",])*(gha|qa|da|ta)($|\s))
+
+# C_b S_f
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(q|Q|(gh)|(Gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(ge|ke|de|te)($|\s))
+# C_f S_b
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(k|K|(?<!n)g(?!h)|(?<!n)G(?!h))(g(?!h)|[^AOUEÖÜaoueüögq\s.",])*(gha|qa|da|ta)($|\s))
 
 ## Expected patterns
-([^aoueüö\s.",]*(q|(gh))[^aoueüö\s.",]*(k|g)[^aoueüöq(gh)\s.",]*(ge|ke|de|te))\s     # C_b C_f S_f
-([^aoueüö\s.",]*(k|g)[^aoueüö\s.",]*(q|(gh))[^aoueüökg\s.",]*(gha|qa|da|ta))\s       # C_f C_b S_b
-([^aoueüökg\s.",]*(q|(gh))[^aoueüökgq(gh)\s.",]*(gha|qa|da|ta))\s                 # C_b S_b
-([^aoueüöq(gh)\s.",]*(k|g)[^aoueüöq(gh)\s.",]*(ge|ke|de|te))\s                    # C_f S_f
+# C_b C_f S_f
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(q|Q|(gh)|(Gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(k|(?<!n)g(?!h))(g(?!h)|[^eüöaougq\s.",])*(ge|ke|de|te)($|\s))
+# C_f C_b S_b
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(k|K|(?<!n)g(?!h)|(?<!n)G(?!h))(g(?!h)|[^AOUEÖÜeüöaougq\s.",])*(q|(gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(gha|qa|da|ta)($|\s))
+# C_b S_b
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(q|Q|(gh)|(Gh))((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])*(gha|qa|da|ta)($|\s))
+# C_f S_f
+((^|\s)[^AOUEÖÜaoueüö\s.",]*(k|K|(?<!n)g(?!h)|(?<!n)G(?!h))(g(?!h)|[^AOUEÖÜaoueüögq\s.",])*(ge|ke|de|te)($|\s))
 
 # No harmonizing elements
-([^aoueüökgq(gh)\s.",]*(ge|ke|de|te))\s  # S_f
-([^aoueüökgq(gh)\s.",]*(gha|qa|da|ta))\s  # S_b
+# S_f
+((^|\s)(((?<=n)g|(?<=N)g|[^AOUEÖÜaoueüökgqKGQ\s.",]))+(ge|ke|de|te)($|\s))
+# S_b
+((^|\s)(((?<=n)g|(?<=N)g|[^AOUEÖÜaoueüökgqKGQ\s.",]))+(gha|qa|da|ta)($|\s))
+
+
+# Subparts
+
+# Match only non-harmonizing
+(((?<=n)g|[^AOUEÖÜaoueüökgq\s.",]))
+
+# Match anything but harmonizing vowels
+[^AOUEÖÜaoueüö\s.",]
+
+# Match uvular harmonizers and all non-harmonizers
+((?<=n)g|g(?=h)|[^AOUEÖÜeüöaoukg\s.",])
+
+# Match dorsal harmonizers and all non-harmonizers
+(g(?!h)|[^AOUEÖÜeüöaougq\s.",])
+
+# Match just g (not ng or gh)
+(?<!n)g(?!h)

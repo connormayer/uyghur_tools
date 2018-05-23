@@ -1,192 +1,235 @@
-xokqa 
-akida 
-bakqa 
-rakita 
-boksta 
-yorkqa 
-boksqa 
-polkqa 
-akigha 
-yorkta 
-ukigha 
-rakéta 
-bankida 
-rakigha 
-polkida 
-kokigha 
-taksida 
-Pakitqa 
-mayakqa 
-bakigha 
-pakitta 
-pakitqa 
-zakirgha 
-hakimgha 
-bilokida 
-fésbokta 
-fésbukqa 
-sotkigha 
-doskigha 
-batkénda 
-Fésbokta 
-zukimida 
-amérkida 
-polkigha 
-bankigha 
-akisigha 
-parnikta 
-markigha 
-muzikida 
-fésbukta 
-Bankokta 
-niyorkta 
-taksigha 
-tankigha 
-tamakida 
-dukinida 
-ramkigha 
-bankokta 
-nyuyorkqa 
-subyéktqa 
-féysbukta 
-feysbokqa 
-bangkokqa 
-amérikida 
-feysbokta 
-Néwyorkta 
-akimizgha 
-shaykigha 
-Nyuyorkta 
-bangkokta 
-Féysbukta 
-bankisida 
-Feysbokta 
-Nyoyorkta 
-obéktigha 
-fabrikida 
-olimpikqa 
-féysbokta 
-ponkitida 
-lozunkida 
-markisida 
-nyuyorkta 
-tamakigha 
-féysbokqa 
-botulkida 
-obiktigha 
-dukinigha 
-féysbukqa 
+ akida 
+ bakqa 
+ xokqa 
+ boksta 
+ polkqa 
+ rakéta 
+ akigha 
+ hagita 
+ pragda 
+ yorkta 
+ xagita 
+ rakita 
+ boksqa 
+ blogda 
+ rakigha 
+ lagérda 
+ pakitqa 
+ mayakqa 
+ pakitta 
+ blogida 
+ taksida 
+ 'rakéta 
+ bankida 
+ polkida 
+ bakigha 
+ kokigha 
+ zukimida 
+ lagérgha 
+ bankokta 
+ bilokida 
+ polkigha 
+ tankigha 
+ fésbukqa 
+ muzikida 
+ amérkida 
+ sotkigha 
+ dukinida 
+ blogigha 
+ fésbokta 
+ parnikta 
+ denhagda 
+ fésbukta 
+ bilogida 
+ turgénda 
+ doskigha 
+ taksigha 
 Bangkokta 
-taktikida 
-amatkigha 
-Féysbokta 
-logikigha 
-waksinida 
-Niyorokta 
-muzikigha 
-fabrikigha 
-alyaskigha 
-amérikigha 
-taksisigha 
-ablikimgha 
-dukinimgha 
-taktikigha 
-ishtrakida 
-shakiligha 
-ramkisigha 
-féyisbukta 
-obyéktigha 
-mashinkida 
-ponkitigha 
-féysbokida 
-nagasakida 
-néyuyorkta 
-féysibokta 
-niyuyorkta 
-lozunkigha 
-féyisbokqa 
-botulkigha 
-bankisigha 
-somkisigha 
-markisigha 
-amatkisida 
-banklirida 
-taksichigha 
-amérilkigha 
-sirilankida 
-praktikigha 
-nagasakigha 
-parashukida 
-bankilirida 
-xaraktérida 
-rishatkigha 
-amérikisida 
-aktiplirida 
-pakitlirida 
-amatkisigha 
-ishtirakida 
-motsiklitqa 
-baraxolkida 
-irkutskiyda 
-kolléktipqa 
-xaraktérgha 
-shaykisigha 
-muzikisigha 
-srilankigha 
-atkritkigha 
-botulkisigha 
-réspublikida 
-kunupkisigha 
-pomishchikqa 
-xaraktérigha 
-muzikilirida 
-bankilirigha 
-aktiplirigha 
-istatéskigha 
-taktikisigha 
-atmatkisigha 
-pakitlirigha 
-ponkitlirida 
-fabrikisigha 
-sirilankigha 
-statistikida 
-markisizmgha 
-markilirigha 
-parashukigha 
-amérikisigha 
-somkilirigha 
-obyéktlirigha 
-yachéykisigha 
-kalpuklirigha 
-rishatkisigha 
-akilirimizgha 
-motsiklitigha 
-muzikilirigha 
-amérikingizda 
-toksikiltigha 
-statistikigha 
-ponkitlirigha 
-istatéstikida 
-uchastikisida 
-sitatistikigha 
-uchastikisigha 
-lozunkilirigha 
-réspublikisida 
-taktikilirigha 
-fabrikilirigha 
-statistikisida 
-ukiliringizgha 
-istatéstikisida 
-parashoklirigha 
-statéstikisigha 
-istatistikisida 
-sitatistikisida 
-grammatikisigha 
-chélyabiniskida 
-statistikisigha 
-zhurnalistikigha 
-uchastikilirigha 
-ochastikilirigha 
-ishtrakchilighida 
-statistikilirigha 
-ishtirakchilirigha 
+ markigha 
+Néwyorkta 
+ bankigha 
+ lagérida 
+ lagirgha 
+ akisigha 
+ batkénda 
+ ramkigha 
+ hakimgha 
+ zakirgha 
+ niyorkta 
+ orginida 
+ tamakida 
+ logikigha 
+ botulkida 
+ ponkitida 
+ di'alogda 
+ amérikida 
+ fabrikida 
+ lagirigha 
+ obéktigha 
+ di'alogta 
+ bangkokqa 
+ bangkokta 
+ subyéktqa 
+ nyuyorkta 
+ denhaggha 
+ Féysbokta 
+ muzikigha 
+ olimpikqa 
+ féysbukqa 
+ Di'alogda 
+ waksinida 
+ féysbokqa 
+ dukinigha 
+ feysbokqa 
+ akimizgha 
+ markisida 
+ nyuyorkqa 
+ dé'alogda 
+ taktikida 
+ katalogqa 
+ bankisida 
+ shaykigha 
+ obiktigha 
+ lagérigha 
+ Féysbukta 
+ di'alogqa 
+ féysbukta 
+ lozunkida 
+ tamakigha 
+ feysbokta 
+ orginigha 
+ féysbokta 
+ ablikimgha 
+ niyuyorkta 
+ bankisigha 
+ édinburgda 
+ dé'alogida 
+ ponkitigha 
+ mashinkida 
+ féysbokida 
+ obyéktigha 
+ taktikigha 
+ lozunkigha 
+ di'alogida 
+ féyisbukta 
+ fabrikigha 
+ shakiligha 
+ markisigha 
+ féyisbokqa 
+ taksisigha 
+ amérikigha 
+ somkisigha 
+ alyaskigha 
+ ishtrakida 
+ ramkisigha 
+ dukinimgha 
+ banklirida 
+ néyuyorkta 
+ bloglirida 
+ édénburgda 
+ di'aloggha 
+ féysibokta 
+ botulkigha 
+ nagasakida 
+ pétérburgda 
+ shaykisigha 
+ lagirlirida 
+ baraxolkida 
+ aktiplirida 
+ xaraktérgha 
+ rishatkigha 
+ di'alogigha 
+ praktikigha 
+ magizin'gha 
+ amérikisida 
+ changgilida 
+ pakitlirida 
+ xaraktérida 
+ ishtirakida 
+ nagasakigha 
+ srilankigha 
+ bankilirida 
+ lagérlirida 
+ atkritkigha 
+ kolléktipqa 
+ motsiklitqa 
+ irkutskiyda 
+ taksichigha 
+ parashukida 
+ amérilkigha 
+ sirilankida 
+ muzikisigha 
+ istatéskigha 
+ rézayan'ggha 
+ xaraktérigha 
+ lagérlirigha 
+ aktiplirigha 
+ markilirigha 
+ réspublikida 
+ changgiligha 
+ botulkisigha 
+ pakitlirigha 
+ fabrikisigha 
+ muzikilirida 
+ parashukigha 
+ amérikisigha 
+ kilugrétista 
+ somkilirigha 
+ agéntlirigha 
+ markisizmgha 
+ lagirlirigha 
+ pomishchikqa 
+ statistikida 
+ sirilankigha 
+ taktikisigha 
+ bankilirigha 
+ mikroblogida 
+ kunupkisigha 
+ ponkitlirida 
+ uchastikisida 
+ rishatkisigha 
+ di'aloglirida 
+ istatéstikida 
+ kalpuklirigha 
+ obyéktlirigha 
+ yachéykisigha 
+ ponkitlirigha 
+ statistikigha 
+ mikrobilogida 
+ toksikiltigha 
+ magizinlirida 
+ akilirimizgha 
+ amérikingizda 
+ awi'amatkigha 
+ motsiklitigha 
+ mikroblogigha 
+ shagirtlirigha 
+ lozunkilirigha 
+ statistikisida 
+ uchastikisigha 
+ fabrikilirigha 
+ taktikilirigha 
+ ukiliringizgha 
+ sitatistikigha 
+ réspublikisida 
+ awi'amatkisida 
+ statéstikisigha 
+ parashoklirigha 
+ changgilishigha 
+ statistikisigha 
+ santpétirburgda 
+ awi'amatkisigha 
+ istatéstikisida 
+ grammatikisigha 
+ chélyabiniskida 
+ istatistikisida 
+ sitatistikisida 
+ uchastikilirigha 
+ awi'atmatkisigha 
+ sanktpétérburgda 
+ sanktpétérburgqa 
+ ochastikilirigha 
+ zhurnalistikigha 
+ statistikilirigha 
+ sankitpétérburgda 
+ ishtirakchilirigha 

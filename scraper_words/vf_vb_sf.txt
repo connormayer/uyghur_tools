@@ -1,102 +1,100 @@
-Gülzade 
-begzade 
-gülzade 
-ge'orge 
-mewlude 
-ötushige 
-etnamige 
-Bedrohte 
-elqa'ide 
-etnamide 
-Kuretake 
-rehimzade 
-el-qa'ide 
-besh-alte 
-yürekzade 
-nezerzade 
-erznamige 
-xeylun'ge 
-ürumchide 
-Besh-alte 
-immediate 
-dergahide 
-mewsumige 
-mepkurige 
-elqa'idige 
-wedinamige 
-perghanige 
-el‏-qa'ide 
-Emeliyatte 
-ehdinamige 
-etnamiside 
-wedinamide 
-jerimanige 
-besh‏-alte 
-eyibnamige 
-yégüzushke 
-eyibnamide 
-el-qa'idige 
-Hökümnamide 
-desmayisige 
-qesemnamige 
-elchixanige 
-örp-aditige 
-shertnamige 
-teziyenamide 
-Sherepnamige 
-teklipnamide 
-shertnamisge 
-memuriyitige 
-ehdinamisige 
-Tebriknamide 
-el‏-qa'idige 
-uliyetnamige 
-eyibnamiside 
-wedinamiside 
-erzinamiside 
-eyibnamisige 
-teslimnamige 
-seyyarimizde 
-ehdinamiside 
-Teklipnamide 
-toxtibegzade 
-mes'uliyitige 
-shertnamiside 
-kapaletnamide 
-murajetnamide 
-exmiqanilikke 
-kapaletnamige 
-nesebnamisige 
-mürini-murige 
-mes'uliyitide 
-mejburiyitide 
-hökümnamisige 
-mewjudiyitige 
-elchixanisige 
-shertnamisige 
-jenubningkige 
-mestanilirige 
-hökümnamiside 
-mejburiyitige 
-shikayetnamige 
-ehdinamilirige 
-teklipnamiside 
-Shikayetnamide 
-meghlubiyitige 
-shikayetnamide 
-tebriknamisige 
-tebriknamiside 
-ijazetnamisige 
-ibadetxaniside 
-örp-aditimizge 
-elchixanimizge 
-ehdinamiliride 
-sherepnamisige 
-ruxsetnamisige 
-shertnamilirige 
-tewsiyenamiside 
-söz-ibariliride 
-mejburiyitimizge 
-erzi-shikayitige 
-teqdirnamilirige 
-murajiyetnamiside 
+ Gülzade 
+ ge'orge 
+ gülzade 
+ begzade 
+ mewlude 
+ ötushige 
+ Kuretake 
+ elqa'ide 
+ Bedrohte 
+ immediate 
+ erznamige 
+ nezerzade 
+ mepkurige 
+ rehimzade 
+ mewsumige 
+ el-qa'ide 
+ xeylun'ge 
+ dergahide 
+ ürumchide 
+ besh-alte 
+ yürekzade 
+ jerimanige 
+ wedinamige 
+ perghanige 
+ el‏-qa'ide 
+ ehdinamige 
+ wedinamide 
+ eyibnamige 
+ eyibnamide 
+ elqa'idige 
+ yégüzushke 
+ Emeliyatte 
+ besh‏-alte 
+ desmayisige 
+ qesemnamige 
+ elchixanige 
+ el-qa'idige 
+ örp-aditige 
+ shertnamige 
+ eyibnamiside 
+ erzinamiside 
+ Tebriknamide 
+ shertnamisge 
+ toxtibegzade 
+ Sherepnamige 
+ wedinamiside 
+ teziyenamide 
+ ehdinamisige 
+ seyyarimizde 
+ teslimnamige 
+ teklipnamide 
+ ehdinamiside 
+ memuriyitige 
+ el‏-qa'idige 
+ eyibnamisige 
+ mestanilirige 
+ murajetnamide 
+ mes'uliyitige 
+ hökümnamisige 
+ mejburiyitige 
+ jenubningkige 
+ mes'uliyitide 
+ kapaletnamide 
+ mejburiyitide 
+ shertnamisige 
+ mürini-murige 
+ exmiqanilikke 
+ hökümnamiside 
+ elchixanisige 
+ shertnamiside 
+ mewjudiyitige 
+ kapaletnamige 
+ nesebnamisige 
+ ijazetnamisige 
+ Shikayetnamide 
+ ehdinamiliride 
+ ruxsetnamisige 
+ shikayetnamide 
+ elchixanimizge 
+ ibadetxaniside 
+ meghlubiyitige 
+ ehdinamilirige 
+ tebriknamiside 
+ örp-aditimizge 
+ shikayetnamige 
+ sherepnamisige 
+ tebriknamisige 
+ teklipnamiside 
+ shertnamilirige 
+ muraji'etnamide 
+ tewsiyenamiside 
+ Muraji'etnamide 
+ söz-ibariliride 
+ muraji'etnamige 
+ mes'uliyetnamige 
+ erzi-shikayitige 
+ teqdirnamilirige 
+ mejburiyitimizge 
+ murajiyetnamiside 
+ muraji'etnamiside 
