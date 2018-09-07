@@ -67,7 +67,9 @@ MAP_2 = {
     "Zh": "Ж",
     "zh": "ж",
     "Ch": "Ч",
-    "ch": "ч"
+    "ch": "ч",
+    "ya": "я",
+    "Ya": "Я"
 }
 
 def convert_latin_to_cyrillic(infile, outfile):
