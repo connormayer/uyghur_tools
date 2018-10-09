@@ -3,11 +3,11 @@ Miscellaneous scripts for processing Uyghur data
 
 * `uyghur_latin_to_cyrillic.py`: Converts text files containing latin Uyghur orthography to cyrillic orthography.
 
-    `usage: python3 uyghur_latin_to_cyrillic.py <input_file> <output_file>`
+    usage: `python3 uyghur_latin_to_cyrillic.py <input_file> <output_file>`
 
 * `uyghur_wugger.py`: Generates Uyghur wug words following a template file.
 
-    `usage: python3 uyghur_wugger.py <template file> <outpfut file>`
+    usage: `python3 uyghur_wugger.py <template file> <outpfut file>`
 
     ## Template File Format
     Each line is a tab-separated pair: 
