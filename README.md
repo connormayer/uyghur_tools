@@ -14,7 +14,7 @@ Miscellaneous scripts for processing Uyghur data
     
         <form template> <number>
 
-    The form template field specifies the general segmental properties of the words. There are currently 6 segment types:
+    The form template field specifies the general segmental properties of the words. There are currently 9 segment types:
 
         C: Non-harmonizing consonants
         V: Non-harmonizing vowels
@@ -30,6 +30,6 @@ Miscellaneous scripts for processing Uyghur data
 
     The number field specifies how many tokens of each template are created.
 
-    The actual segments that go into each segment type slot are chosen uniformly at random from that class of segments. See the source code for details. See wug_templates.txt for an example of the template file.
+    The actual segments that go into each segment type slot are chosen uniformly at random from that class of segments. See the source code for details. See `wug_templates.txt` for an example of the template file.
 
 * `uyghur_regexes.txt`: Some example regexes for use in a Uyghur corpus searcher
