@@ -101,6 +101,32 @@ def convert_latin_to_cyrillic(infile, outfile):
     with open(outfile, "w") as f:
         f.write(file)
 
+def convert_cyrillic_to_latin(infile, outfile):
+    """
+    Converts cyrillic Uyghur script to Latin.
+    """
+    with open(infile, "r") as f:
+        file = f.read()
+
+    map_1 = {v: k for k, v in MAP_1.items()}
+    map_2 = {v: k for k, v in MAP_2.items()}
+
+    for key in map_2:
+        file = file.replace(key, map_2[key])
+
+    # Remove miscellaneous characters
+    file = file.replace("'", "")
+    file = file.replace("=", "")
+    file = file.replace("’", "")
+
+    # Replace all one character sequences
+    for key in map_1:
+        file = file.replace(key, map_1[key])
+
+    with open(outfile, "w") as f:
+        f.write(file)
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Convert latin Uyghur script to cyrillic"
@@ -111,5 +137,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "outfile", type=str, help="The file to write cyrillic script to"
     )
+    parser.add_argument(
+        "--input", type=str, help="One of cyrillic or latin.", default="latin"
+    )
     args = parser.parse_args()
-    convert_latin_to_cyrillic(args.infile, args.outfile)
+    if args.input == "cyrillic":
+        convert_cyrillic_to_latin(args.infile, args.outfile)
+    elif args.input == "latin":
+        convert_latin_to_cyrillic(args.infile, args.outfile)
+    else:
+        print("Invalid input value {}".format(args.input))
